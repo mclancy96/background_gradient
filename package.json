@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mclancy96/background_gradient/issues"
   },
-  "homepage": "https://github.com/mclancy96/background_gradient#readme"
+  "homepage": "https://github.com/mclancy96/background_gradient#readme",
+  "dependencies": {
+    "node": "^16.1.0"
+  }
 }
