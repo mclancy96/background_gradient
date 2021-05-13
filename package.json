@@ -1,0 +1,19 @@
+{
+  "name": "background_gradient",
+  "version": "1.0.0",
+  "description": "Sets the background based on user input",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclancy96/background_gradient.git"
+  },
+  "author": "Mike Clancy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclancy96/background_gradient/issues"
+  },
+  "homepage": "https://github.com/mclancy96/background_gradient#readme"
+}
