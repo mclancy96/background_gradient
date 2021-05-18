@@ -8,6 +8,6 @@ app.get("/", (req,res) => {
 	res.render("index");
 });
 
-app.listen(3000, function(){
+app.listen(process.env.PORT, function(){
 	console.log("Gradient app has started...");
 });
