@@ -5,9 +5,9 @@ app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"));
 
 app.get("/", (req,res) => {
-	res.render("./index", {});
+	res.render("index");
 });
 
-app.listen(process.env.PORT, function(){
+app.listen(3000, function(){
 	console.log("Gradient app has started...");
 });
